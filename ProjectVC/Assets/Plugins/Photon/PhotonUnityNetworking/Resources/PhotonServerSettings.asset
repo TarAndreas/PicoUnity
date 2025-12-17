@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3758f8f58fdef43803eb9be1df0608, type: 3}
+  m_Name: PhotonServerSettings
+  m_EditorClassIdentifier: 
+  AppSettings:
+    AppIdRealtime: e04e8e7d-dd39-4b23-8e23-394f7b57ac9e
+    AppIdFusion: 
+    AppIdChat: 0a47e212-627d-4882-b439-4d845542f0f3
+    AppIdVoice: 41b69746-6ce4-4081-985a-1636003af259
+    AppVersion: 1.0
+    UseNameServer: 1
+    FixedRegion: 
+    Server: 
+    Port: 0
+    ProxyServer: 
+    Protocol: 0
+    EnableProtocolFallback: 1
+    AuthMode: 0
+    EnableLobbyStatistics: 0
+    NetworkLogging: 1
+  DevRegion: 
+  PunLogging: 0
+  EnableSupportLogger: 0
+  RunInBackground: 1
+  StartInOfflineMode: 0
+  RpcList:
+  - ClickRpc
+  - DestroyRpc
+  - DestroySpaceship
+  - Fire
+  - RespawnSpaceship
+  - CantHearYou
+  - ChangeColour
+  - HeresWhy
+  - InitializeSelectedAvatarModel
+  - StartNetworkGrabbing
+  - StopNetworkGrabbing
+  - SyncAvatarURL
+  - ToggleSeatRPC
+  - LockSeatAnimatorAtRemotesRPC
+  - ReleaseSeatAnimatorAtRemotesRPC
+  - DestroyClones
+  - DestroyClonesNow
+  - DropOrb
+  - ExecuteAction
+  - LeaveSnapZone
+  - PlayWrongAudio
+  - RpcStartCo
+  - RpcStopCo
+  - StartRenderLine
+  - disablePlayerPath
+  - enablePlayerPath
+  - stopParticles
+  - RpcLineDraw
+  - RpcEmptyLR
+  - PanInhalt
+  - PizzaInhalt
+  - PotInhalt
+  - PRCActiveKinematic
+  - RezeptErstellen
+  - Rpc_Board
+  - Rpc_GameEnde
+  - RPC_Instantiate
+  - RPC_KinimeticActicieren
+  - Rpc_KitRest
+  - Rpc_knifeMacker
+  - Rpc_RandownRezeptnummber
+  - Rpc_SpelStart
+  - Slicepossion
+  - SliceShow
+  - SpielStart
+  - ZutatenVerglichen
+  - translateZutaten
+  - CleanUpSlices
+  - TriggerObjInstantiate
+  DisableAutoOpenWizard: 1
+  ShowSettings: 1
+  DevRegionSetOnce: 1

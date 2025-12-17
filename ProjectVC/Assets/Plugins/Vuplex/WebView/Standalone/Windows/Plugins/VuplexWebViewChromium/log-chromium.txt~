@@ -1,0 +1,1417 @@
+[1018/083036.026:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/083036.087:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738374 [8,6]
+[1018/083036.183:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/083036.183:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/083036.183:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/083036.183:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/083036.372:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836487 [5,7]
+[1018/083036.372:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836487 [5,7]
+[1018/083036.372:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836487 [5,7]
+[1018/083036.372:WARNING:browser_info.cc(301)] Returning a speculative frame for 21474836487 [5,7]
+[1018/083038.862:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/083038.862:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/091514.349:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/091543.013:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/091816.711:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/091816.849:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 51
+[1018/091816.864:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 15
+[1018/091816.874:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 45
+[1018/091816.884:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 39
+[1018/091816.884:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 25
+[1018/091817.030:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 27
+[1018/092040.906:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 23
+[1018/092040.957:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 17
+[1018/092041.254:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 13
+[1018/092041.254:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 7
+[1018/092042.279:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092042.401:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092042.401:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092042.401:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092042.401:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092044.472:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/092044.532:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/092441.726:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/092535.991:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092535.993:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092535.993:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092535.993:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092535.993:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/092538.107:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/092538.168:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/093516.732:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/093516.732:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/093516.733:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/093516.733:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/093516.733:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/093518.525:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/093518.579:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/094358.755:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/094358.755:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/094358.756:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/094358.756:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/094358.756:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/094400.697:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/094400.754:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/095358.677:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/095358.678:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/095358.678:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/095358.678:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/095358.678:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/095400.081:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/095400.152:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/095655.854:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/095729.832:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/100416.769:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/100416.769:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/100416.770:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/100416.770:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/100416.770:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/100420.340:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/100420.388:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/100615.687:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/101732.326:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101732.326:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101732.326:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101732.326:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101732.326:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101733.602:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/101733.655:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/101836.139:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101836.140:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101836.140:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101836.140:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101836.140:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/101837.899:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/101837.966:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/102205.616:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/102205.616:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/102205.616:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/102205.616:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/102205.616:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/102207.238:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/102207.299:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/102433.777:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/102433.777:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/102433.841:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/102457.376:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/102745.658:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/102833.650:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/102950.658:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/103251.704:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[1018/103451.159:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/104055.284:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/110440.433:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/110440.433:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/110440.434:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/110440.434:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/110440.434:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/110441.749:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[1018/110634.084:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/111701.515:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/111701.639:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/111701.639:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/111701.639:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/111701.639:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/111702.122:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[1018/111858.194:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/111905.645:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/112017.528:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112017.528:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112017.529:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112017.529:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112017.530:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112018.228:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[1018/112031.093:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/112031.093:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/112031.161:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/112713.893:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 1
+[1018/112714.998:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112714.998:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112714.998:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112714.998:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112714.998:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112719.075:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/112719.075:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/112719.132:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/112750.662:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112750.662:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112750.663:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112750.663:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112750.663:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771077 [7,5]
+[1018/112752.967:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/112753.023:WARNING:browser_info.cc(301)] Returning a speculative frame for 34359738375 [8,7]
+[1018/113039.678:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/113052.989:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113052.990:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113052.990:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113052.990:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113052.990:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113054.682:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113054.736:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113059.037:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/113059.038:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/113117.341:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113117.342:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113117.342:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113117.342:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113117.342:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113119.243:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113119.297:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113141.338:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/113141.338:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1018/113257.137:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113257.137:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113257.137:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113257.137:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113257.138:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113259.205:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113259.271:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113603.760:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113603.761:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113603.761:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113603.761:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113603.761:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113605.606:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113605.666:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113703.493:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113703.494:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113703.495:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113703.495:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113703.495:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/113705.116:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/113705.168:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/131407.403:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/131714.300:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/131849.058:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/131849.058:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/131849.058:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/131849.058:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/131849.058:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/131850.818:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/131850.883:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/131924.669:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1018/131924.669:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1018/132047.936:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/132512.237:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132512.238:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132512.239:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132512.239:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132512.239:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132514.235:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/132514.292:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/132711.205:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/132918.129:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132918.129:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132918.129:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132918.130:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132918.130:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1018/132920.264:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/132920.317:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1018/133009.127:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1018/133117.087:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1018/150822.928:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/150905.033:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1018/151149.029:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1019/112252.637:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1019/112659.941:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/112659.941:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/112659.941:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/112659.941:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/112659.941:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/112701.766:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/112701.827:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/112858.807:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1019/145606.593:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/145606.594:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/145606.594:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/145606.594:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/145606.594:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/145608.649:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/145608.706:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/150006.432:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150006.432:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150006.432:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150006.432:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150006.432:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150007.773:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/150007.843:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/150807.736:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150807.737:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150807.737:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150807.737:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150807.737:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/150809.426:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/150809.491:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/150956.526:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1019/153233.956:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/153233.958:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/153233.958:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/153233.958:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/153233.958:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/153235.891:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/153235.950:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/155738.548:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/155738.549:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/155738.549:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/155738.549:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/155738.549:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/155740.727:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/155740.808:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/155937.585:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1019/164244.018:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/164244.019:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/164244.019:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/164244.019:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/164244.019:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1019/164245.922:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1019/164245.982:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/115814.031:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1020/115956.805:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1020/121749.609:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/121749.609:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/121749.609:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/121749.609:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/121749.609:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/121751.568:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/121751.630:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/122025.140:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122025.141:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122025.141:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122025.141:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122025.141:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122027.315:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/122027.379:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/122050.166:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1020/122050.175:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1020/122050.175:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1020/122237.546:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122237.546:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122237.546:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122237.547:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122237.547:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122239.368:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/122239.436:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/122436.472:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1020/122703.819:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122703.820:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122703.820:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122703.820:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122703.820:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/122705.536:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/122705.598:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/122902.858:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1020/123037.043:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/123037.043:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/123037.043:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/123037.043:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/123037.044:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/123039.077:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/123039.140:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/131312.008:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131312.008:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131312.009:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131312.009:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131312.009:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131313.751:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/131313.810:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/131338.114:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1020/131338.114:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1020/131539.776:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131539.776:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131539.776:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131539.776:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131539.776:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131542.014:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/131542.069:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/131910.726:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131910.727:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131910.727:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131910.727:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131910.727:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1020/131912.675:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1020/131912.736:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1101/105439.157:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/115847.901:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/120610.787:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/123143.471:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/124005.638:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/144803.804:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/145841.808:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/145953.063:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/151121.945:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/152857.120:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/152918.371:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/154331.834:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/154635.231:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/160108.449:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/160930.121:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/160949.261:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/161104.296:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/161256.609:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/161528.895:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/161649.165:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/161802.576:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/162033.507:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/162502.603:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/163531.563:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/163912.428:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/164217.470:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/164406.696:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/164610.788:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/164933.493:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/165134.147:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/165251.529:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/165612.264:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/165816.488:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/170439.282:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/171028.943:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/175347.148:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/175639.856:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/175723.770:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/180156.333:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1101/180906.866:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1101/181035.625:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1102/111012.485:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1102/111025.024:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1102/165313.508:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1102/165638.825:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1102/165648.616:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1102/165932.152:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1102/170301.885:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1102/170620.558:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1102/171124.044:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1102/171220.611:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1102/171220.661:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1103/111622.736:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/111821.091:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/112107.329:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/112423.033:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/112646.446:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/113734.449:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/114145.190:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/114216.623:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/114818.489:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/115118.623:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/115518.028:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/115518.638:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/115640.977:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/115941.969:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/121131.135:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/121249.338:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/121840.937:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/122117.340:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/122713.732:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/122855.539:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/123226.759:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/123616.487:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/124402.579:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/124547.966:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/125727.048:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/130006.516:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/130300.655:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/130526.629:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/130727.020:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/131023.526:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/131518.222:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/131543.531:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/131923.039:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/132150.071:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/132308.941:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1103/132350.089:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1103/132350.134:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1103/132447.399:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/132728.477:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/132816.693:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/133159.560:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/133244.146:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/133412.769:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/133719.786:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/133814.339:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/134027.183:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/134351.855:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/134408.574:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/134758.623:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/134942.811:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/135246.237:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1103/135348.835:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/135530.558:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/135855.503:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1103/140004.854:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/115009.922:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/121406.617:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/121437.619:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/121437.620:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1104/121437.620:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/121437.620:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1104/121437.634:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/121437.634:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1104/121437.634:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/121439.558:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/121443.166:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/121443.166:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/121443.217:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/121454.446:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/121454.490:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/121550.215:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/121657.574:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/121738.798:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/122308.427:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/122418.301:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/123010.122:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/123121.816:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/123325.058:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/123514.720:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/123602.884:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/123602.890:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/123602.890:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/123602.890:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/123602.890:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/123603.192:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1104/123604.810:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1104/123604.865:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1104/123613.926:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 5
+[1104/123626.263:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/123626.263:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/123626.325:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/124513.204:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/124636.629:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/124720.388:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/125106.008:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/125139.400:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/125139.401:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1104/125139.401:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/125139.401:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1104/125139.417:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/125139.417:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1104/125139.417:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/125141.270:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/125146.779:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/125146.793:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/125146.829:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/125148.776:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/125148.776:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/125148.839:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/125343.621:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/125422.490:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/125422.490:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1104/125422.490:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/125422.490:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1104/125422.504:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/125422.504:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1104/125422.504:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/125424.373:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/125437.820:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/125437.820:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/125459.713:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/125459.717:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/125459.762:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/125656.288:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/125725.249:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/125747.936:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/125747.937:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1104/125747.937:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/125747.937:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1104/125747.949:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/125747.949:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1104/125747.949:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/125749.822:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/125805.254:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/125805.305:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/125827.381:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/130914.574:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/131441.355:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/131755.297:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/131833.619:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/132030.320:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/132826.810:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/132851.069:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/132946.807:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/132946.851:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/133638.879:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/135023.792:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/135529.629:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/140332.874:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/140618.588:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/141026.492:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/141733.106:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/142338.047:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/142453.155:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/142453.206:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/143408.114:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/143520.538:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/143733.478:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/144143.634:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/145010.177:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/145514.400:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/145550.011:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/145550.011:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1104/145550.012:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/145550.012:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1104/145550.025:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/145550.026:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1104/145550.026:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/145551.926:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/145604.742:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/145604.742:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/145604.800:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/145613.538:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/145613.546:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/145613.602:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/145815.878:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/150023.903:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/150415.639:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/150458.865:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/150811.239:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/151007.263:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/151339.169:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/151343.616:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/151547.731:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/151826.960:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/152111.726:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/152720.506:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/152852.307:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/153104.526:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/153123.235:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/153203.225:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/153203.281:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/153642.854:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/153859.385:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/153918.769:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/154013.328:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/154013.328:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1104/154013.328:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/154013.328:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1104/154013.342:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/154013.342:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1104/154013.342:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/154015.248:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/154019.377:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/154019.424:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/154155.911:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/154408.508:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/154442.232:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/154443.008:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/154443.008:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1104/154443.008:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/154443.008:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1104/154443.022:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/154443.022:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1104/154443.022:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/154444.896:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/154453.199:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/154453.199:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/154453.267:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/154522.228:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/154522.281:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/154729.045:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/154758.040:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/155146.769:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/155403.795:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/155702.730:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/155720.937:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/155853.194:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/155943.297:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/155943.298:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[1104/155943.298:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/155943.298:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[1104/155943.318:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[1104/155943.318:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/marku/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[1104/155943.318:ERROR:disk_cache.cc(186)] Unable to create cache
+[1104/155945.154:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[1104/160003.046:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/160003.057:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/160003.099:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/160046.066:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/160219.234:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/160536.083:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/160734.949:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/160948.002:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/160954.427:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/161436.282:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/161636.857:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/161934.820:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/162418.775:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/162929.189:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/163020.164:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/163245.819:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/163337.019:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/163619.539:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/163908.154:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1104/163929.190:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/164009.199:ERROR:ChromiumLogFunctions.h(15)] Didn't receive a heartbeat message from the main process, so it must have died. Terminating the Vuplex WebView Chromium process...
+[1104/164009.249:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] WriteFile failed with error code: 232
+[1104/164112.375:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/164352.523:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/164448.446:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/164810.052:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/164810.193:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/164810.193:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/164810.194:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/164810.194:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1104/164810.348:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1104/164822.457:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/164822.457:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1104/164822.509:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/164940.641:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/165514.706:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/165819.383:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/165918.488:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/170000.259:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/170103.134:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/170339.993:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/170521.247:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/170713.645:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/170837.937:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/171555.452:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/171953.605:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/172029.490:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/172222.057:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/172610.472:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/172809.942:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/173312.261:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/173537.086:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/180404.177:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/180445.024:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/180558.841:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/180737.404:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/181437.200:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/181822.751:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/181922.792:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/182051.559:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/182153.329:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/182228.649:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/182544.644:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/182754.337:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/183022.797:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/183108.007:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/183356.166:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/183639.230:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/183817.536:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/184004.197:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/184443.981:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/184713.842:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/184750.374:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/185238.871:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/185400.214:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/185544.917:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/185851.058:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/190151.513:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/190557.566:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/190827.865:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/191027.733:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/191421.981:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/191530.899:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/191639.662:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/191826.541:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/192053.605:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/192603.684:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/192927.737:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/194523.322:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/194707.995:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/194904.648:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/195127.309:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/195559.163:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/195714.718:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/195820.538:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/200104.869:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/200557.871:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/203009.915:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/203258.395:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/203338.134:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/203518.311:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/203820.960:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/204039.729:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/204213.894:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/204333.703:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/204541.678:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/205334.785:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/205505.777:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/205732.868:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1104/210209.246:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1104/210313.136:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/103702.232:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/103816.032:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/112856.945:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/112856.945:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/112856.946:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/112856.946:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/112856.946:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/112857.310:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/113055.842:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/113208.725:ERROR:ChromiumLogFunctions.h(15)] [WindowsChromiumToPluginBridge] ReadFile failed with error code: 109
+[1107/113222.135:ERROR:network_service_instance_impl.cc(978)] Network service crashed, restarting service.
+[1107/113222.157:ERROR:gpu_process_host.cc(974)] GPU process exited unexpectedly: exit_code=1073807364
+[1107/113222.157:WARNING:gpu_process_host.cc(1279)] The GPU process has crashed 1 time(s)
+[1107/113614.236:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113614.236:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113614.237:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113614.237:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113614.237:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113614.605:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/113617.794:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/113617.862:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/113646.177:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1107/113646.833:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 3
+[1107/113829.563:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113829.564:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113829.564:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113829.564:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113829.564:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/113829.932:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/113831.724:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/113831.797:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/114028.603:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/114420.850:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/114553.917:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/114835.174:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/114835.175:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/114835.175:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/114835.175:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/114835.175:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/114835.546:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/114836.518:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/114836.547:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/115034.211:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/115244.006:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/120351.902:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/120504.797:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/120915.420:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/121129.212:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/121433.259:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/123406.318:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/123613.750:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/123925.917:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/130707.900:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/130712.128:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/130851.485:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/131200.569:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/131235.786:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/132541.743:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/133451.939:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/134031.018:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/134037.096:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/134141.497:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/134204.622:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/134204.622:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/134204.622:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/134204.622:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/134204.623:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/134204.963:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/134206.628:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/134206.692:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/134221.403:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1107/134221.403:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1107/134403.663:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/134422.341:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/135850.725:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135850.726:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135850.726:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135850.726:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135850.726:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135851.053:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/135852.815:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/135852.877:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/135907.542:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1107/135927.519:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/135939.151:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135939.151:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135939.151:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135939.151:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135939.151:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/135939.441:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/135941.326:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/135941.392:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/140002.546:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1107/140002.546:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1107/140707.801:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/140707.801:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/140707.801:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/140707.801:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/140707.801:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/140708.179:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/140710.090:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/140710.153:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/140906.880:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/140936.238:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/141201.382:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141201.383:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141201.383:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141201.383:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141201.383:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141201.690:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/141203.495:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/141203.556:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/141400.322:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1107/141525.644:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/141613.521:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141613.521:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141613.521:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141613.521:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141613.521:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141613.893:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/141614.863:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/141614.921:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/141757.303:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/141818.630:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141818.630:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141818.630:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141818.630:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141818.630:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141818.979:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/141820.932:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/141820.993:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/141900.659:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/141945.843:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141945.844:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141945.844:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141945.844:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141945.844:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/141946.156:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/141947.955:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/141948.019:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/141955.641:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1107/141955.641:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1107/142002.950:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1107/142002.950:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1107/142003.040:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/142052.584:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142052.584:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142052.584:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142052.585:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142052.585:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142052.940:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/142054.715:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/142054.781:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/142137.407:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/142325.592:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142325.592:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142325.592:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142325.592:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142325.592:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142325.971:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/142326.913:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/142326.978:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/142347.893:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1107/142347.893:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1107/142439.039:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/142458.321:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142458.321:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142458.321:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142458.321:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142458.321:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/142458.665:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/142500.158:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/142500.239:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/142532.808:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/150434.180:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/153105.150:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/153105.150:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/153105.150:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/153105.150:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/153105.150:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1107/153105.535:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1107/153107.456:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/153107.517:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1107/153127.144:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1107/153127.144:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1107/154034.206:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/155543.623:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1107/155635.973:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/093358.470:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/093658.320:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/102554.851:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/103605.159:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/105135.489:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/105555.936:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/110113.377:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/110337.363:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/110639.421:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/110852.025:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/111542.238:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/111612.106:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/112137.989:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/112230.800:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/113239.343:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/113331.381:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/113654.179:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/115043.583:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/120439.372:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/120700.202:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/120909.205:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/121137.269:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/121251.649:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/122127.131:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/122349.796:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/122631.999:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/122902.483:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/123000.634:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/123056.580:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/123056.584:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/123056.585:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/123056.585:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/123056.585:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/123056.989:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1108/123059.185:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1108/123059.240:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1108/123600.153:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/123624.512:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/123754.896:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/124405.125:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1108/124525.977:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/125007.972:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/125248.592:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/125346.667:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/125911.511:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/130222.316:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/130222.316:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/130222.316:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/130222.316:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/130222.316:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/130222.622:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1108/130225.433:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1108/130225.495:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1108/130241.876:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1108/130241.876:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1108/130329.372:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/130431.309:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/130514.427:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/130541.313:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/130709.462:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/130832.029:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/130928.967:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/131008.406:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/131344.548:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/131600.969:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/154746.117:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/155041.827:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/155233.966:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/155318.588:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1108/155318.590:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1108/170429.631:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/170429.635:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/170429.635:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/170429.635:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/170429.635:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/170429.983:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1108/170439.395:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1108/170439.395:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1108/170439.545:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1108/171658.322:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/171658.325:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/171658.325:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/171658.325:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/171658.325:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1108/171658.611:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1108/171701.062:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1108/171701.175:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1108/171704.689:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1108/171704.689:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1109/104627.612:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/104627.613:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/104627.613:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/104627.613:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/104627.613:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/104627.963:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1109/104630.057:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1109/104630.115:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1109/104654.267:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1109/104654.267:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1109/104826.581:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1109/104922.878:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/105136.116:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/105136.116:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/105136.116:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/105136.116:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/105136.116:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/105136.435:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1109/105139.357:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1109/105139.418:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1109/105154.965:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1109/105154.965:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1109/105246.875:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/105935.070:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/114452.043:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1109/114526.267:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/114805.159:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/115110.678:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1109/115511.940:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/120214.991:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1109/120428.094:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/120729.322:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1109/120927.456:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/121955.174:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1109/122119.948:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/141734.911:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/141734.911:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/141734.911:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/141734.911:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/141734.912:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1109/141735.268:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1109/141736.949:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1109/141737.015:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1109/152729.657:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/163823.742:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/163904.643:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/164118.320:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1109/164519.719:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1115/105158.989:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1115/114359.367:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1115/114425.623:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1123/100110.688:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1123/100110.689:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1123/100110.689:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1123/100110.689:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1123/100110.689:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1123/100111.353:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1123/100112.726:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1123/100112.746:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1123/100309.648:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1201/105555.856:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/105555.899:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/105555.899:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/105555.899:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/105555.900:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/105556.154:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1201/105557.181:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/105557.205:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/105557.205:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/105557.205:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/105557.205:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/105725.836:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1201/132343.570:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/132343.577:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/132343.578:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/132343.578:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/132343.578:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1201/132343.880:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1201/132344.693:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/132344.701:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/132344.701:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/132344.701:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/132344.701:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1201/132542.387:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1201/133211.544:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1205/135606.002:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1205/135606.003:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1205/135606.003:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1205/135606.003:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1205/135606.003:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1205/135606.803:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1205/135805.187:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1206/100313.561:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1206/100313.561:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1206/100313.562:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1206/100313.562:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1206/100313.562:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1206/100313.906:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1206/100339.109:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1206/100339.111:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1206/100506.826:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1207/115146.597:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1207/115303.967:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1207/115438.905:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1207/115618.645:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1207/115808.412:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1207/115912.231:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1214/100004.859:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/100004.860:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/100004.860:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/100004.860:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/100004.861:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/100005.195:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1214/100006.223:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/100006.241:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/100006.242:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/100006.242:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/100006.242:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/100202.850:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1214/101837.056:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1214/101950.659:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/101950.662:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/101950.662:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/101950.662:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/101950.662:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[1214/101950.969:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[1214/101951.758:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/101951.766:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/101951.767:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/101951.767:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/101951.767:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771079 [7,7]
+[1214/102012.877:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 11
+[1214/102012.894:WARNING:spdy_session.cc(3541)] Received HEADERS for invalid stream 9
+[1214/102128.986:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1214/102251.378:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1214/102455.706:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1220/132659.025:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1220/134011.421:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[1220/134011.421:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[0307/121835.275:ERROR:ssl_client_socket_impl.cc(997)] handshake failed; returned -1, SSL error code 1, net_error -101
+[0307/121835.522:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0307/121836.690:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0307/121836.739:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0307/121836.739:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0307/121836.739:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0307/121836.740:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0316/115833.978:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0329/163359.757:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0329/163443.978:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0424/092257.101:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0424/092257.930:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0424/092257.947:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0424/092257.947:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0424/092257.947:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0424/092257.947:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0424/092455.225:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0424/093102.735:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0515/140604.153:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0515/140618.050:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0515/143721.557:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0525/115449.731:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0525/125415.225:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0525/131141.664:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0525/131616.448:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0525/131942.029:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0525/132036.286:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0525/145913.567:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0525/150125.277:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0626/173105.048:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0626/173115.598:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0705/143547.091:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0705/143810.091:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1102/144918.053:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1102/145136.010:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1102/145904.788:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1116/153255.515:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1116/155811.439:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1127/115007.990:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1127/115126.727:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1127/115350.712:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[1127/115408.890:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1127/132802.546:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1127/133130.465:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[1127/133439.777:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0429/101738.129:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/101738.174:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/101738.174:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/101738.174:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/101738.174:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/101738.228:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0429/101739.904:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/101740.343:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/101740.344:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/101740.344:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/101740.344:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/101740.362:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/101740.362:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/101740.362:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/101740.362:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/101741.353:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/101741.353:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/101741.353:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/101741.353:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102014.681:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/102014.744:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/102014.745:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/102014.745:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/102014.745:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/102014.876:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0429/102015.914:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102016.344:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102016.344:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102016.344:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102016.344:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102016.350:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102016.350:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102016.350:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102016.350:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102016.355:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102016.356:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102016.356:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102016.356:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102250.802:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102250.836:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102250.836:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102250.837:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102250.837:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102251.047:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0429/102251.955:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102252.386:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102252.386:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102252.386:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102252.386:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102252.396:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102252.396:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102252.396:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102252.396:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102252.401:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102252.401:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102252.401:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102252.402:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102334.958:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0429/102749.576:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102749.622:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102749.622:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102749.622:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102749.622:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102749.747:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0429/102752.268:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102752.714:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102752.714:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102752.714:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102752.715:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102752.716:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102752.716:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102752.716:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102752.716:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102752.717:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102752.718:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102752.718:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102752.718:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102907.656:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102907.701:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102907.701:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102907.701:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102907.701:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803781 [6,5]
+[0429/102907.930:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0429/102908.777:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102909.204:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102909.204:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102909.204:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102909.204:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/102909.214:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102909.214:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102909.214:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102909.214:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/102909.258:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102909.258:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102909.259:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102909.259:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/102928.730:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[0429/102928.730:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[0429/103037.600:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/103037.633:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/103037.633:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/103037.634:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/103037.634:WARNING:browser_info.cc(301)] Returning a speculative frame for 25769803782 [6,6]
+[0429/103037.846:WARNING:http_cache_transaction.cc(2384)] Multiple or malformed validation headers found.
+[0429/103038.724:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/103039.147:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/103039.147:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/103039.147:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/103039.147:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771083 [7,11]
+[0429/103039.151:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/103039.151:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/103039.151:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/103039.152:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771086 [7,14]
+[0429/103039.155:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/103039.155:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/103039.155:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/103039.155:WARNING:browser_info.cc(301)] Returning a speculative frame for 30064771089 [7,17]
+[0429/103236.590:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0429/103310.685:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0306/153213.470:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0313/141409.272:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0313/144229.276:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0320/152620.237:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0320/153210.096:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0327/094146.670:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0327/144903.708:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0327/150145.409:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0327/150458.405:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0327/150645.130:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0327/151003.445:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0327/151157.397:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0403/083559.652:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0403/083624.801:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0403/084708.837:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0403/150948.179:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0403/151210.161:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0505/113913.161:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0505/114147.514:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0505/114311.622:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0505/115304.781:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0505/115553.697:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0505/115802.348:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0505/120304.893:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0505/120849.855:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/082917.439:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/100742.059:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/100848.826:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/101019.062:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/101152.326:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/101436.090:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/101526.424:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/101554.365:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/103603.837:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/111929.759:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/112111.424:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/125914.815:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[0508/125914.815:WARNING:sqlite_persistent_store_backend_base.cc(165)] Failed to post task from FlushAndNotifyInBackground@net/extras/sqlite/sqlite_persistent_store_backend_base.cc:213 to client_task_runner_.
+[0508/130306.062:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/130548.259:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/131234.594:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0508/131246.554:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0508/131551.697:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/095837.593:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0512/100107.968:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/100337.649:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0512/100418.140:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/100554.354:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/104232.973:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0512/104242.364:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/151601.373:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0512/151747.543:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/151954.028:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/152509.323:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/152739.233:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/153041.031:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/153308.929:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/153515.309:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/153857.013:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0512/153923.345:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/154030.161:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0512/154229.793:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0513/101035.292:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0513/101245.786:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0513/101348.231:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[0513/101348.232:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/Andreas/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/Andreas/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[0513/101348.232:ERROR:disk_cache.cc(186)] Unable to create cache
+[0513/101348.232:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0513/101348.318:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[0513/101348.319:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/Andreas/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/Andreas/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[0513/101348.319:ERROR:disk_cache.cc(186)] Unable to create cache
+[0513/101350.192:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0513/103557.598:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[0513/103557.599:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/Andreas/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\GPUCache to C:/Users/Andreas/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\old_GPUCache_000
+[0513/103557.599:ERROR:disk_cache.cc(186)] Unable to create cache
+[0513/103557.599:ERROR:shader_disk_cache.cc(612)] Shader Cache Creation failed: -2
+[0513/103557.663:ERROR:cache_util_win.cc(20)] Unable to move the cache: Zugriff verweigert (0x5)
+[0513/103557.664:ERROR:cache_util.cc(146)] Unable to move cache folder C:/Users/Andreas/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\Cache_Data to C:/Users/Andreas/AppData/LocalLow/DefaultCompany/ProjectVC\Vuplex.WebView\chromium-cache\Cache\old_Cache_Data_000
+[0513/103557.664:ERROR:disk_cache.cc(186)] Unable to create cache
+[0513/103559.563:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../LOCK: File currently in use. (ChromeMethodBFE: 15::LockFile::2)
+[0513/103652.132:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/115342.453:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0514/115428.055:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/122423.732:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0514/124607.748:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/124901.044:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/124945.528:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/125514.884:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0514/125516.323:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/125827.277:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/130325.384:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/130705.158:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0514/131026.053:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/131458.332:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/131633.656:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/132449.502:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/132609.426:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0514/132744.990:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0515/121428.538:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0515/122707.703:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0515/141741.323:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0515/142417.359:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0515/151606.579:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0515/152400.331:WARNING:task_impl.cc(32)] No task runner for threadId 0
+[0604/082138.833:ERROR:gpu_init.cc(446)] Passthrough is not supported, GL is disabled, ANGLE is 
+[0604/082240.717:WARNING:task_impl.cc(32)] No task runner for threadId 0
